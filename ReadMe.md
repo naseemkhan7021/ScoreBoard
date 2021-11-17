@@ -1,6 +1,6 @@
 
 ### Review
 
-![shcreenshot](./srn.png)
+![shcreenshot](assets/srn.png)
 
 ### navicat 
